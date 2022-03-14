@@ -1,0 +1,6 @@
+[submodule "extern/arsenm/sanitizers-cmake"]
+	path = extern/arsenm/sanitizers-cmake
+	url = https://github.com/arsenm/sanitizers-cmake
+[submodule "extern/pybind/pybind11"]
+	path = extern/pybind/pybind11
+	url = https://github.com/pybind/pybind11
